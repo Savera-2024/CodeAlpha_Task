@@ -1,0 +1,20 @@
+Chatbot: Hi there! How can I help you today? (Type 'bye' to exit)
+You: hello
+Chatbot: Hi!
+You: how are you
+Chatbot: I'm fine, thanks for asking!
+Chatbot: Hi there! How can I help you today? (Type 'bye' to exit)
+You: hi
+Chatbot: I'm sorry, I don't understand that. Can you rephrase?
+Chatbot: Hi there! How can I help you today? (Type 'bye' to exit)
+You: hello
+Chatbot: Hi!
+You: how are you
+Chatbot: I'm fine, thanks for asking!
+You: bye
+Chatbot: Goodbye! Have a great day!
+Chatbot: Hi there! How can I help you today? (Type 'bye' to exit)
+You: hello
+Chatbot: Hi!
+You: bye
+Chatbot: Goodbye! Have a great day!
